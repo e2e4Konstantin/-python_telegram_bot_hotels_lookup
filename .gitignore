@@ -1,9 +1,14 @@
 .idea/
 .venv/
 .env
+ENV/
+env.bak/
+venv.bak/
+
 __pycache__/
 bot/__pycache__/
 bot/handlers/__pycache__/
 bot/keyboards/__pycache__/
 site_api/__pycache__/
 db/__pycache__/
+
